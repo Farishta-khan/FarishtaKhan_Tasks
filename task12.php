@@ -8,7 +8,7 @@ class Student {
 $student1 = new Student();
 
 // Assign values
-$student1->name = "Farishta Khan";
+$student1->name = "Farishta";
 $student1->age = 23;
 
 // Print data  
